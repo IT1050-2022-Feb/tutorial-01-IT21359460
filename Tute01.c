@@ -20,5 +20,5 @@ int main(void) {
    printf("\nAverage is: %.2f\n" , avg);
    
    return 0;
-}
+}//end main function
 

@@ -22,7 +22,7 @@ int main() {
    printf("%d ", multiply(no1, no2));
   
    return 0;
-}
+}//end main function
 int minimum(int no1, int no2)
 {
    if( no1 > no2 )

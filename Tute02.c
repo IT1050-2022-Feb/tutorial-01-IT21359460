@@ -27,13 +27,13 @@ int main() {
   
   if( distance <= 30 ){
     amount = distance * 50;
-    printf( "amount to be paid: ", amount);
+    printf( "amount to be paid:%.2f\n ", amount);
   }
   
   else if( distance > 30 ){
     amount = distance * 40;
-    print( "amount to be paid:  ",amount);
+    printf( "amount to be paid:%.2f\n ",amount);
   } 
   
   return 0;
-}
+}//end main function
